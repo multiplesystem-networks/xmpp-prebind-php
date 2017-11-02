@@ -6,6 +6,7 @@
     "keywords": ["xmpp", "php", "prebind"],
     "homepage": "http://jolicode.com",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Michael Weibel"
